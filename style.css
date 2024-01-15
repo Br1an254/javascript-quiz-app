@@ -70,6 +70,6 @@ body{
     margin:10px auto 0;
     outline: none;
     border: none;
-    display: none;
+    display: block;
     cursor: pointer;
 }
